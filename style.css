@@ -1,0 +1,43 @@
+body{
+    background-image: url("background1.jpg");
+}
+#div1{
+    width: 100%;
+}
+#btn1{
+    border-style: hidden;
+    float: right;
+}
+h3{
+    display: inline;
+}
+#div4{
+    text-align: left;
+}
+#btn2{
+    border-style: hidden;
+    background-color: darkcyan;
+    font-size: 22px;
+    display: inline;
+}
+#div3{
+    background-color: darkcyan;
+}
+#instruct{
+    font-size: 25px;
+}
+.modal1{
+    width: 70%;
+    border-radius: 10px;
+}
+#div3{
+    border-radius: 7px;
+}
+#div5{
+    background-color: gray;
+    margin-bottom: 0px;
+    color: white;
+}
+canvas{
+    background-color: none;
+}
